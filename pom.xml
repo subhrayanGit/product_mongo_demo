@@ -8,8 +8,8 @@
 		<version>2.5.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.product</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.product.demo</groupId>
+	<artifactId>product-mongo-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>product-mongo-demo</name>
 	<description>Demo project for Spring Boot</description>
